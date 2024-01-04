@@ -1,9 +1,9 @@
 {
   "admob": {
-    "Admob_App_Id": "ca-app-pub-1095345055947784~9409821354",
-    "banner": "ca-app-pub-1095345055947784/9863975281",
+    "Admob_App_Id": "ca-app-pub-3940256099942544/9257395921",
+    "banner": "ca-app-pub-3940256099942544/6300978111",
     "rewarded": "ca-app-pub-1095345055947784/8747036674",
-    "interstitial": "ca-app-pub-1095345055947784/5924730274"
+    "interstitial": "ca-app-pub-3940256099942544/5224354917"
   },
   "facebook": {
     "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
