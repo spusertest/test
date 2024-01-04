@@ -1,9 +1,17 @@
 {
-"admob": 
-  { 
-    "Admob_App_Id": "ca-app-pub-1095345055947784~9409821354" , 
-    "banner": "ca-app-pub-1095345055947784/9863975281", 
-    "rewarded": "ca-app-pub-1095345055947784/8747036674", 
-    "interstitial": "ca-app-pub-1095345055947784/5924730274" 
+  "admob": {
+    "Admob_App_Id": "ca-app-pub-1095345055947784~9409821354",
+    "banner": "ca-app-pub-1095345055947784/9863975281",
+    "rewarded": "ca-app-pub-1095345055947784/8747036674",
+    "interstitial": "ca-app-pub-1095345055947784/5924730274"
+  },
+  "facebook": {
+    "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "rewarded": "YOUR_PLACEMENT_ID"
+  },
+  "unityads": {
+    "Unity_Id": "ca-app-pub-1095345055947784~9409821354",
+    "rewarded": "ca-app-pub-1095345055947784/8747036674",
+    "interstitial": "ca-app-pub-1095345055947784/5924730274"
   }
 }
